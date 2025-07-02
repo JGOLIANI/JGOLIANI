@@ -14,4 +14,3 @@ Software Developer with experience in MES (Manufacturing Execution System) syste
 
 ## Where to find me 🙋🏼‍♂️
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jgoliani/)](https://www.linkedin.com/in/jgoliani/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:jguilherme.oliani@gmail.com)
