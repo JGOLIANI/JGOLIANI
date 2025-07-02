@@ -1,5 +1,5 @@
 ## About me 🤙
-Software Developer with experience in MES (Manufacturing Execution System) systems, working on the development of solutions that integrate software with industrial processes. vOpen to collaborations and new challenges!
+Software Developer with experience in MES (Manufacturing Execution System) systems, working on the development of solutions that integrate software with industrial processes. Open to collaborations and new challenges!
 ## My skills 🛠
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" width="60" height="60"/>
